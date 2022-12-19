@@ -1,5 +1,7 @@
 from tkinter import *
 
+# frame = a rectangular container to group and hold widgets
+
 window = Tk()
 
 frame = Frame(window,
